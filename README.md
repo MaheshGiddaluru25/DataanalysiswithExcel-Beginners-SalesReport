@@ -55,12 +55,18 @@ Divya Store aims to analyze its annual sales data for 2022 to gain insights into
 
 ## Sample Visualizations
 1. **Comparative Chart of Sales and Orders**
+
+
  ![image](https://github.com/user-attachments/assets/04ece0cb-b743-40da-adb0-54580c4aba4c)
 
-2. **Top Contributing States**
+3. **Top Contributing States**
+
+
  ![image](https://github.com/user-attachments/assets/1185604b-6603-453e-8c93-1d032bcb155c)
 
-3. **Gender and Age Insights**
+5. **Gender and Age Insights**
+
+
 ![image](https://github.com/user-attachments/assets/1f10dfb5-5d63-43b8-9c99-816979cbdcf6)
 
 
